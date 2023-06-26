@@ -135,6 +135,9 @@ persist.vendor.dpm.feature=1
 persist.vendor.dpm.nsrm.bkg.evt=3955
 persist.vendor.dpmhalservice.enable=1
 
+# DRM
+drm.service.enabled=true
+
 # Display
 debug.sf.use_phase_offsets_as_durations=1
 debug.sf.late.sf.duration=15666666
