@@ -134,11 +134,15 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     gralloc.sm6150 \
     hwcomposer.sm6150 \
+    libtinyxml \
     memtrack.sm6150
 
 PRODUCT_PACKAGES += \
-    vendor.qti.hardware.display.mapper@1.1.vendor \
-    vendor.qti.hardware.display.mapper@2.0.vendor
+    vendor.qti.hardware.display.composer@1.0.vendor \
+    vendor.qti.hardware.display.composer@2.0.vendor \
+    vendor.qti.hardware.display.mapper@2.0.vendor \
+    vendor.qti.hardware.display.mapper@3.0 \
+    vendor.qti.hardware.display.mapper@4.0.vendor
 
 PRODUCT_PACKAGES += \
     disable_configstore
