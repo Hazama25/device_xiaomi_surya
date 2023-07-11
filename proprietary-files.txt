@@ -89,6 +89,8 @@ system_ext/etc/permissions/audiosphere.xml
 system_ext/framework/audiosphere.jar
 -vendor/lib/soundfx/libasphere.so
 -vendor/lib/soundfx/libshoebox.so
+vendor/lib/soundfx/libmisoundfx.so|1fccae9dd8fe72632236096dfd20dbd8c7fd4740
+vendor/lib64/soundfx/libmisoundfx.so|6c21183573e7d4253825c4be1a6b56395727e67f
 
 # Audio HAL
 -vendor/lib/hw/audio.primary.sm6150.so
